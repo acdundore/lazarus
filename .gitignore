@@ -1,5 +1,5 @@
 # ignore API keys files
-api_keys
+api_keys.json
 
 # ignore contents of input and output folders
 input/
