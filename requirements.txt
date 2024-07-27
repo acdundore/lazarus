@@ -1,0 +1,13 @@
+# Tested with Python==3.9.19
+
+numpy==1.26.0
+scipy==1.13.1
+pydub==0.25.1
+ffmpeg==1.4 # you may need to re-install this with: conda install -c conda-forge ffmpeg
+
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+openai-whisper==20231117
+pyannote.audio==3.3.1
+noisereduce==3.0.2
