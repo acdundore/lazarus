@@ -1,0 +1,6 @@
+# ignore API keys files
+api_keys
+
+# ignore contents of input and output folders
+input/
+output/
